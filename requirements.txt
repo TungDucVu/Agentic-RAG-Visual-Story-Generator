@@ -1,0 +1,23 @@
+# Core Framework & Workflow
+langchain
+langchain-openai
+langchain-community
+langgraph
+python-dotenv
+
+# Multi-modal & Vector Search
+chroma-hnswlib        # Vector store backend
+chromadb              # Vector database
+sentence-transformers # For HuggingFaceEmbeddings
+transformers          # For CLIPModel and CLIPProcessor
+torch                 # Deep learning backend for CLIP
+torchvision           # Required by many CLIP implementations
+pillow                # Image processing (PIL)
+
+# Multimedia & API
+cloudinary            # Image hosting/uploading
+pyttsx3               # Text-to-speech
+requests              # URL/HTTP handling
+
+# UI & Web
+streamlit
