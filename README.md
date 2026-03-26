@@ -135,7 +135,7 @@ streamlit run Agentic_Workflow.py
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements (not yet done)
 
 - Hybrid search (image + text embeddings)  
 - Better caching & optimization  
